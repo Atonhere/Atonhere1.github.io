@@ -12,11 +12,11 @@
 
     <p>Naruto est un manga avec</p>
 
-    <ol>
+    <ul>
         <li>De l'action</li>
         <li>De la fantasie</li>
         <li>Des Ninjas</li>
-    </ol>
+    </ul>
 
     <p> Naruto veut être Hokage malheureusement c'est un chemin difficile. Malgré tout on y croit !</p>
 
