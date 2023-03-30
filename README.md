@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Naruto</h1>
-    <img src="images/https://logo-marque.com/wp-content/uploads/2021/08/Firefox-Browser-Logo.png" alt="firefox">
+    <img src="https://logo-marque.com/wp-content/uploads/2021/08/Firefox-Browser-Logo.png" alt="firefox">
 
     <p>Naruto est un manga avec</p>
 
