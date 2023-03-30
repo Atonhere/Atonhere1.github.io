@@ -1,6 +1,6 @@
 
 <html lang="FR">
-
+<color background="`#0969DA`"/>
 <head>  
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width"/>
