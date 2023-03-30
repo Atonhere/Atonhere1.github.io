@@ -8,7 +8,7 @@
     <title>Ma page test</title>
 </head>
 <body>
-    <h1>Naruto c'est cool</h1>
+    <h1>Naruto</h1>
     <img src="https://1drv.ms/i/s!AogfjYH5hIQykH3Aio_YHpsTe-8Q?e=sekAuo" alt="Une photo de naruto souriant, croisant les bras et le mur des hokage derrière lui"/>
 
     <p>Naruto est un manga avec</p>
