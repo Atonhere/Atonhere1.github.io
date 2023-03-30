@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Naruto</h1>
-    <img src="images/https://user-images.githubusercontent.com/129393483/228879732-c3b25553-0d4c-4c72-b2e6-d3840277b858.png" alt="Une photo de naruto souriant, croisant les bras et le mur des hokage derrière lui">
+    <img src="images/https://logo-marque.com/wp-content/uploads/2021/08/Firefox-Browser-Logo.png" alt="firefox">
 
     <p>Naruto est un manga avec</p>
 
