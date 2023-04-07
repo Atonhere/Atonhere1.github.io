@@ -111,8 +111,8 @@
             <textarea cols="30" rows="10" placeholder="Spécifiez autre ici"></textarea><br>
 
             <!-- Input checkbox -->
-            <label><input type="checkbox"/>Accepter les CGU</label>
-            <label><input type="checkbox"/>Refuser les CGU</label>
+            <label><input type="checkbox" name="type"/>Accepter les CGU</label>
+            <label><input type="checkbox" name="type"/>Refuser les CGU</label>
             <input type="submit" value="Valider">
         </form>
     </section>
